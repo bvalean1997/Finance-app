@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "description": "The API for the finance app.",
+  "main": " ",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": " "
+  },
+  "author": "Bianca Valean <valean.bianca@yahoo.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.21.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
